@@ -1,5 +1,8 @@
 # Supabase Auth Starter
 
+**Live Demo:** [https://supabase-auth-starter-eight.vercel.app](https://supabase-auth-starter-eight.vercel.app)
+
+
 A minimal, production-shaped auth foundation: **Next.js (App Router) + TypeScript + Supabase Auth** via `@supabase/ssr` — the current recommended package for cookie-based sessions in Next.js.
 
 > Screenshots: add `screenshots/login.png` and `screenshots/dashboard.png` here after deploying.
